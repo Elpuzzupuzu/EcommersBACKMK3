@@ -42,5 +42,8 @@ public class Category {
         this.products = products;
     }
 
+
+
+
     // Getters y setters
 }
